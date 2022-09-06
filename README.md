@@ -1,6 +1,6 @@
 <img src="https://github.com/collinsoden22/about/blob/main/about.png" />
 
-My Name is [Collins Oden](https://linktr.ee/collinsoden). I am a software developer with interest in solving real-world problems with technology and dependable leadership. <br/>
+<center>My Name is [Collins Oden](https://facebook.com/officialcollinsoden).</center><br/> I am a software developer with interest in solving real-world problems with technology and dependable leadership. <br/>
 
 <div align="center">
 <p>
