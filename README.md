@@ -1,7 +1,6 @@
 <img src="https://github.com/collinsoden22/about/blob/main/about.png" />
 
-<div align="center"> My Name is [Collins Oden](https://linktree/officialcollinsoden). </div>
-<br/> I am a software developer with interest in solving real-world problems with technology and dependable leadership. <br/>
+<div align="center"> My Name is [Collins Oden](https://facebook/officialcollinsoden).<br/> I am a software developer with interest in solving real-world problems with technology and dependable leadership. <br/> </div>
 
 <div align="center">
 <p>
